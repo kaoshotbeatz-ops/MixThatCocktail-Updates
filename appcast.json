@@ -1,8 +1,9 @@
 {
-  "version": "2.3.0",
-  "date": "2026-05-31",
+  "version": "2.4.0",
+  "date": "2026-06-01",
   "critical": false,
   "notes": [
+    "\ud83c\udf78 MixThatCocktail 2.4.0 \u2014 NEW Mac menu bar: Go, Theme & app-specific menus with keyboard shortcuts",
     "\ud83c\udf78 MixThatCocktail 2.3 \u2014 NEW Discover hub: Surprise Me, Drink of the Day, Your Stats, Standard-Drinks calculator & Unlock More",
     "\ud83c\udf78 MixThatCocktail 2.2 \u2014 Liquid Glass design (Metal 4) + streamlined App Store updates",
     "\ud83c\udf78 MixThatCocktail 2.1 \u2014 100+ MORE drinks (now 125+ total) and NEW Liquor 101: every spirit explained, light vs dark",
